@@ -283,6 +283,10 @@ a.home-link:hover {
   font-size: smaller;
 }
 
+
+.fas .fa-home {
+  text-decoration: none;
+}
 .beta {
   background: url('images/EvSeenDark.png') no-repeat center center;
   background-clip: text;
